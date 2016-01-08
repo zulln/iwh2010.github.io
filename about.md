@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: about/
 ---
 
 A student with knowledge about reverse engineering that I thought would be fun to share.
